@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572274556964",
+    "firebase_url": "https://agendav2-aed86-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "agendav2-aed86",
+    "storage_bucket": "agendav2-aed86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572274556964:android:9ffb8073c203a694e718b1",
+        "android_client_info": {
+          "package_name": "com.example.agenda_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572274556964-s8uf80vi8gblqkcrpqmg45d0q63qq1pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkfiBdC99cz07_k8-f6CCfgtFGXWX91iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572274556964-s8uf80vi8gblqkcrpqmg45d0q63qq1pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
